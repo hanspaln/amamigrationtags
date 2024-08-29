@@ -246,16 +246,5 @@
     "versions": [
       "1.0.0"
     ]
-  },
-  "id": "/providers/Microsoft.Management/managementGroups/d54b3fe4-da98-4996-8bb5-098337366f20/providers/Microsoft.Authorization/policyDefinitions/dc9e1ea3-bf77-4058-8aa6-053daaaa44d9",
-  "type": "Microsoft.Authorization/policyDefinitions",
-  "name": "dc9e1ea3-bf77-4058-8aa6-053daaaa44d9",
-  "systemData": {
-    "createdBy": "admin@MngEnvMCAP580893.onmicrosoft.com",
-    "createdByType": "User",
-    "createdAt": "2024-02-01T19:30:21.0613589Z",
-    "lastModifiedBy": "admin@MngEnvMCAP580893.onmicrosoft.com",
-    "lastModifiedByType": "User",
-    "lastModifiedAt": "2024-02-01T19:30:21.0613589Z"
   }
 }
